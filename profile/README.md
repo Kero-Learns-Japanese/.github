@@ -65,8 +65,7 @@ race down and a spinning arena you try to stay standing on.
 
 ## The videos
 
-Short ones, teaching a single piece of beginner Japanese at a time. Hiragana only, never
-the angular script, because hiragana is what a learner meets first.
+Short ones, teaching a single piece of beginner Japanese at a time.
 
 <p align="center">
   <a href="https://www.youtube.com/@KeroLearnsJapanese/shorts"><b>@KeroLearnsJapanese</b></a>
