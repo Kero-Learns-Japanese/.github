@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kero-Learns-Japanese/.github/main/profile/images/kerotown-banner.png" alt="KEROTOWN: Kero the gold frog beside the wordmark, over the candy town." width="900">
+  <img src="https://raw.githubusercontent.com/Kero-Learns-Japanese/.github/main/profile/images/kerotown-title.png" alt="KEROTOWN, けろたうん: Kero the gold frog on a lantern street at night. A free game by Kero Learns Japanese." width="900">
 </p>
 
 <h1 align="center">Kero Learns Japanese</h1>
